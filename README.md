@@ -1,4 +1,4 @@
-# Quick Pic Image Editor 
+# QuickPic Image Editor 
  Final project for **Fundamentals of Software Engineering**.
  A simple Windows Forms desktop image editor written in C# (.NET Framework 4.7.2).
  
