@@ -27,5 +27,5 @@
 - `FSEE/Program.cs` – entry point
 
 ## Author(s)
-Syed Sami Shah
-Mian Abdul Wahab
+- Syed Sami Shah
+- Mian Abdul Wahab
