@@ -1,0 +1,11 @@
+C:\Users\RBTG\source\repos\FSEE\FSEE\bin\Debug\FSEE.exe.config
+C:\Users\RBTG\source\repos\FSEE\FSEE\bin\Debug\FSEE.exe
+C:\Users\RBTG\source\repos\FSEE\FSEE\bin\Debug\FSEE.pdb
+C:\Users\RBTG\source\repos\FSEE\FSEE\obj\Debug\FSEE.csproj.AssemblyReference.cache
+C:\Users\RBTG\source\repos\FSEE\FSEE\obj\Debug\FSEE.Form1.resources
+C:\Users\RBTG\source\repos\FSEE\FSEE\obj\Debug\FSEE.Properties.Resources.resources
+C:\Users\RBTG\source\repos\FSEE\FSEE\obj\Debug\FSEE.csproj.GenerateResource.cache
+C:\Users\RBTG\source\repos\FSEE\FSEE\obj\Debug\FSEE.csproj.CoreCompileInputs.cache
+C:\Users\RBTG\source\repos\FSEE\FSEE\obj\Debug\FSEE.exe
+C:\Users\RBTG\source\repos\FSEE\FSEE\obj\Debug\FSEE.pdb
+C:\Users\RBTG\source\repos\FSEE\FSEE\obj\Debug\FSEE.Form2.resources
